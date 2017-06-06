@@ -1,4 +1,4 @@
-# SessionEndSimulator
+# SES - Session End Simulator
 A small utility to signal a Windows application that the current user session is ending. For debugging restart problems in applications.
 
 Microsoft used to make a tool like this available back in Vista days, I was unable to locate it (download link is dead). There are several gigs of ISO's listed now for this "tool", that don't show the specific required executable in any sort of manifest.
